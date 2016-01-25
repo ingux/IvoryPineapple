@@ -1,0 +1,14 @@
+Map des USA (commence par une "petite"(à définir) zone) mais dézoomable avec un genre de fog of war
+
+Map divisée en régions, régions contient des villes
+Lorsque que l'on clique sur une ville, on voit les infrastructures possibles, les factions présentes, le niveau d'alerte de la police,...
+
+Les villes sont reliées par une ou plusieurs routes, allant de la nationale à la route de campagne (route +ou- praticable, +ou- exposée)
+
+Le but du jeu est de dévelloper son empire de contrebande (transport, vente et achat de marchandise)
+A cette fin, on utilise de véhicules (plus ou moins performants, plus ou moins reconnaissables par la police)
+Les prix sont fixés en fonctions de l'offre/demande (si guerre de faction, l'offre diminue donc prix élevés par ex)
+
+
+Des factions (alliées/enemies) contrôllent une ou des villes (si toutes les villes d'une région sont controllées, la région est controllée par la faction).
+
